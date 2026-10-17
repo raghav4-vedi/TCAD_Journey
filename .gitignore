@@ -1,0 +1,8 @@
+.venv/
+tcad_env/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.bak

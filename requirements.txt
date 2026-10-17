@@ -1,0 +1,5 @@
+devsim==2.11.0
+numpy==2.4.6
+matplotlib==3.11.2
+notebook==7.6.3
+ipykernel==7.4.0
